@@ -1,4 +1,5 @@
 """
+First simple program more to come
 ChatGPT_API.py
 Peter Dinh
 """
